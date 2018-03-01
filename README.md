@@ -58,3 +58,7 @@ func onCardSwiped(visibleCardIndex: Int) {
 }
 ```
 
+#### SwipeableView in action
+
+![alt text](https://github.com/mbalajee/UISwipeableView/blob/master/swipe_demo.gif)
+
